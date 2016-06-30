@@ -45,7 +45,7 @@ Kazakhstan plans to establish a geospatial information infrastructure to improve
 In addition, Kazakhstan plans to develop a 'geospatial information creation and examination' demonstration system, which could be a key function of Kazakhstan NGIS, with the help from GIT (Geospatial Information Technology) who has proven to have the excellency and valuable experience in developing geospatial information system.
 
 Research Institutions
-
+---
 Research Responsibilities: Korean Research Institute for human Settlements http://www.krihs.re.kr/
 
 Contractor: GIT (Geospatial Information Technology) Research Lab http://www.git.co.kr/
