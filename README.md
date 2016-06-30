@@ -20,44 +20,53 @@
 =====
 1. jQuery 2.2.2 (MIT License, CC0) http://jquery.com/
 2. jQuery UI 1.11.4 (MIT License & GPL License, this case MIT License), start theme. http://jqueryui.com/
-3. GeoTools 13.1 
-4. GDAL 1.11.1
-5. PostGIS 2.1.7
-6. MyBatis 3.2.8
-7. ApachePOI 3.14
-8. ApacheCommons 1.3.3
-9. Javax.mail 1.4
-10. JACKSON 1.9.7
-11. JSON 20160212
-12. COS 05Nov2002
-13. Openlayers3 3.13.0
-14. Spectrum 1.8.0
+3. GeoTools 13.1 (LGPL) http://www.geotools.org/
+4. GDAL 1.11.1 (X/MIT) gdal.org
+5. PostGIS 2.1.7 (GNU General Public License (version 2 or later)) 	http://postgis.net/
+6. MyBatis 3.2.8 (Apache License 2.0) 	www.mybatis.org
+7. ApachePOI 3.14 (Apache License 2.0) http://poi.apache.org
+8. ApacheCommons 1.3.3 (Apache License 2.0) 	commons.apache.org/proper/commons-logging/
+9. Javax.mail 1.4 (CDDL-1.1) https://glassfish.dev.java.net/javaee5/mail/
+10. JACKSON 1.9.7 (Apache License (AL) 2.0,  LGPL 2.1)
+11. JSON 20160212 (MIT License) 
+12. COS 05Nov2002 (Jason Hunter License) http://www.servlets.com/
+13. Openlayers3 3.13.0 (FreeBSD) www.openlayers.org
+14. Spectrum 1.8.0 (MIT) http://numeraljs.com/
 
-OpenGDS / Builder (Geospatial Information Editor)
+Kazakhstan SDI Demonstration System
+=======
 
-The project of 'Land Geospatial Information Research and Development, Korea', has been designated to carry out the [Development of Open Source Geospatial Software] challenges.
+This project is designed for the purpose of testing the Kazakhstan SDI (Web based geospatial examination) Demonstration System.
 
-The full version will be available in the future, an integrated environment. These programs have not been completed, the final version can cause problems to the full. The problem is to end-users, if completed, will be applied to the proposed license and conventions.
+Development Goal
+---
+Kazakhstan plans to establish a geospatial information infrastructure to improve the currently existing state assets, including land and facilities and to provide a variety of more efficient and improved public services.
 
-OpenSource Team. R&D dept, Geospatial Information Technology Co.Ltd.
+In addition, Kazakhstan plans to develop a 'geospatial information creation and examination' demonstration system, which could be a key function of Kazakhstan NGIS, with the help from GIT (Geospatial Information Technology) who has proven to have the excellency and valuable experience in developing geospatial information system.
 
-Research Group
+Research Institutions
 
-Group Leader : Pusan National University http://www.pusan.ac.kr/
+Research Responsibilities: Korean Research Institute for human Settlements http://www.krihs.re.kr/
 
-Research Leader : Korea Research Institute for Human Settlements http://www.krihs.re.kr/
+Contractor: GIT (Geospatial Information Technology) Research Lab http://www.git.co.kr/
 
-Libraries
-1.jQuery 1.11.1 (MIT License, CC0) http://jquery.com/
-2.jQuery UI 1.11.2 (MIT License & GPL License, this case MIT License), start theme. http://jqueryui.com/
-3.Handsontable 0.12.5 (MIT License) http://handsontable.com/
-4.jsTree 3.0.9 (MIT License) - Not used - http://www.jstree.com/
-5.JSON-js (?) https://github.com/douglascrockford/JSON-js
-6.Notify.js (MIT License) http://notifyjs.com/
-7.OpenLayers 2.13.1 (2-clause BSD License) http://openlayers.org/two/
-8.Proj4js (License : https://github.com/proj4js/proj4js/blob/master/LICENSE.md ) https://github.com/proj4js/proj4js
-9.THREE.js r68 (MIT License) http://threejs.org/
+Used Libraries
+=====
+1. jQuery 2.2.2 (MIT License, CC0) http://jquery.com/
+2. jQuery UI 1.11.4 (MIT License & GPL License, this case MIT License), start theme. http://jqueryui.com/
+3. GeoTools 13.1 (LGPL) http://www.geotools.org/
+4. GDAL 1.11.1 (X/MIT) gdal.org
+5. PostGIS 2.1.7 (GNU General Public License (version 2 or later)) 	http://postgis.net/
+6. MyBatis 3.2.8 (Apache License 2.0) 	www.mybatis.org
+7. ApachePOI 3.14 (Apache License 2.0) http://poi.apache.org
+8. ApacheCommons 1.3.3 (Apache License 2.0) 	commons.apache.org/proper/commons-logging/
+9. Javax.mail 1.4 (CDDL-1.1) https://glassfish.dev.java.net/javaee5/mail/
+10. JACKSON 1.9.7 (Apache License (AL) 2.0,  LGPL 2.1)
+11. JSON 20160212 (MIT License) 
+12. COS 05Nov2002 (Jason Hunter License) http://www.servlets.com/
+13. Openlayers3 3.13.0 (FreeBSD) www.openlayers.org
+14. Spectrum 1.8.0 (MIT) http://numeraljs.com/
+
 
 Mail
-
 Developer : Seulgi, Lee ghre55@git.co.kr
